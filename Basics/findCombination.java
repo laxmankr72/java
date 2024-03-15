@@ -41,7 +41,7 @@ public class findCombination {
        int factR = factoril(r);
        int factNR = factoril(n-r);
 
-        int result = factN/(factR * factNR);
+      int result = factN/(factR * factNR);
         System.out.println("result:"+result);
 
     }
