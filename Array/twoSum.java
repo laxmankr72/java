@@ -14,7 +14,7 @@ public class twoSum {
             int data = sc.nextInt();
             arr[i]=data;
         }
-        System.out.print("Array list : ");
+        System.out.println("Array list : ");
         for(int a:arr){
             System.out.println(a);
         }
