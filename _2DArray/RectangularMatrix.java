@@ -5,10 +5,10 @@ public class RectangularMatrix {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Row: ");
+        System.out.println("n: ");
         int n = sc.nextInt();
 
-        System.out.println("Row: ");
+        System.out.println("m: ");
         int m = sc.nextInt();
 
 
